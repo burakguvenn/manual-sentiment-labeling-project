@@ -1,0 +1,24 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE files (if any, add your IDE's specific ignore patterns)
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Custom labeled data - UNCOMMENT THE LINE BELOW IF YOU DO NOT WANT TO SHARE YOUR MANUAL LABELS!
+yorumlar_etiketlenecek.csv
+#amazon_review.csv
+
+# Other data files you might want to ignore (e.g., large raw datasets)
+# *.csv  # Dikkat: Tüm csv dosyalarını yoksayar!
+# *.xlsx
